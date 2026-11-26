@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140f06"/><stop offset="1" stop-color="#33240a"/></linearGradient>
+    <linearGradient id="scr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fb923c" stop-opacity=".55"/><stop offset="1" stop-color="#140f06"/></linearGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5c542"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#f5c542"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#f5c542" stop-opacity=".45"/><stop offset="1" stop-color="#f5c542" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#fb923c" stop-opacity=".40"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#fff" opacity=".07"/></pattern>
+    <clipPath id="ic"><rect x="84" y="92" width="150" height="150" rx="34"/></clipPath>
+    <clipPath id="card"><rect width="1280" height="420" rx="28"/></clipPath>
+    <filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".45"/></filter>
+  </defs>
+  <g clip-path="url(#card)">
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#dots)"/>
+  <circle cx="1060" cy="70" r="330" fill="url(#g1)"/>
+  <circle cx="160" cy="430" r="300" fill="url(#g2)"/>
+  <g transform="rotate(-8 1070 236)" filter="url(#sh)">
+    <rect x="960" y="46" width="220" height="400" rx="34" fill="#0b0b10" stroke="#f5c542" stroke-opacity=".55" stroke-width="2"/>
+    <rect x="972" y="60" width="196" height="372" rx="24" fill="url(#scr)"/>
+    <rect x="1040" y="70" width="60" height="8" rx="4" fill="#000" opacity=".5"/>
+    <rect x="988" y="106" width="110" height="14" rx="7" fill="#fff" opacity=".9"/>
+    <rect x="988" y="130" width="70" height="10" rx="5" fill="#fff" opacity=".45"/>
+    <rect x="988" y="160" width="164" height="86" rx="16" fill="#fff" opacity=".16"/>
+    <rect x="1000" y="176" width="90" height="10" rx="5" fill="#fff" opacity=".75"/>
+    <rect x="1000" y="196" width="120" height="8" rx="4" fill="#fff" opacity=".4"/>
+    <rect x="1000" y="218" width="56" height="16" rx="8" fill="#f5c542"/>
+    <rect x="988" y="260" width="78" height="70" rx="14" fill="#fff" opacity=".12"/>
+    <rect x="1074" y="260" width="78" height="70" rx="14" fill="#fff" opacity=".12"/>
+    <circle cx="1027" cy="290" r="14" fill="#f5c542" opacity=".9"/>
+    <circle cx="1113" cy="290" r="14" fill="#fb923c" opacity=".9"/>
+    <rect x="988" y="342" width="164" height="12" rx="6" fill="#fff" opacity=".22"/>
+    <rect x="988" y="364" width="120" height="12" rx="6" fill="#fff" opacity=".14"/>
+    <rect x="988" y="392" width="164" height="26" rx="13" fill="#f5c542" opacity=".95"/>
+  </g>
+  <g filter="url(#sh)"><rect x="84" y="92" width="150" height="150" rx="34" fill="url(#mono)"/></g>
+  <text x="159" y="194" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#fff">V</text>
+  <text x="84" y="318" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="-1">VEDA</text>
+  <text x="86" y="358" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="23" fill="#ffffff" fill-opacity=".78">Vedic astrology — Kundli, Dasha, Panchang &amp; AI guidance</text>
+  <rect x="86" y="376" width="220" height="4" rx="2" fill="url(#ln)"/>
+  <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">
+    <rect x="262" y="118" width="198.4" height="36" rx="18" fill="#f59e0b" fill-opacity=".16" stroke="#f59e0b" stroke-opacity=".7"/>
+    <circle cx="282" cy="136" r="5" fill="#f59e0b"/>
+    <text x="296" y="141" fill="#f59e0b">IN DEVELOPMENT</text>
+    <rect x="262" y="166" width="248.2" height="36" rx="18" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".25"/>
+    <text x="277" y="189" fill="#fff" fill-opacity=".85">LIFESTYLE · ASTROLOGY</text>
+    <text x="264" y="232" font-weight="600" font-size="14" fill="#fff" fill-opacity=".5" letter-spacing="2">AJAY LABs</text>
+  </g>
+  </g>
+</svg>
