@@ -1,10 +1,10 @@
 <p align="center"><img src="assets/banner.svg" alt="VEDA — Vedic astrology — Kundli, Dasha, Panchang & AI guidance" width="100%"/></p>
-<p align="center"><img src="https://img.shields.io/badge/status-in_development-f59e0b?style=flat-square" alt="status"/> <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/source-private-555?style=flat-square&logo=github" alt="source private"/> <img src="https://img.shields.io/badge/by-AJAY_LABs-111?style=flat-square" alt="AJAY LABs"/></p>
+<p align="center"><img src="https://img.shields.io/badge/status-launching_soon_on_Google_Play-38bdf8?style=flat-square" alt="status"/> <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/source-private-555?style=flat-square&logo=github" alt="source private"/> <img src="https://img.shields.io/badge/by-AJAY_LABs-111?style=flat-square" alt="AJAY LABs"/></p>
 ---
 
 ## ✨ Overview
 
-VEDA is an Android-first Vedic astrology app. It generates a full **Kundli** (birth chart with D1/D9 and divisional charts), Navagraha and **Vimshottari Dasha** timelines, a daily **Panchang**, Kundli matching (Guna Milan), and **Ask Veda** — an AI chat that explains your chart in plain language. Available in **24 Indian languages**.
+VEDA is an Android-first Vedic astrology app. It generates a full **Kundli** (birth chart with D1/D9 and divisional charts), Navagraha and **Vimshottari Dasha** timelines, a daily **Panchang**, Kundli matching (Guna Milan), and **Ask Veda** — an AI chat that explains your chart in plain language. Available in **24 Indian languages**. The app is complete and **launching soon on Google Play**.
 
 ## 🚀 Features
 
