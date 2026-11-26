@@ -72,7 +72,7 @@ This is a **product showcase**. The source code, credentials and signing keys ar
 
 <p align="center">
   Designed & built by <a href="https://github.com/theajay17"><b>Ajay Kumar Saw</b></a> · Wushang Labs<br/><br/>
-  <a href="https://www.linkedin.com/in/ajay-kumar-saw-775aa832a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/theajay1701"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sawajay303@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://play.google.com/store/apps/dev?id=4822433550844528613"><img src="https://img.shields.io/badge/All_apps-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a>
 </p>
